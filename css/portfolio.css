@@ -529,6 +529,18 @@ header{
         background-image: url('../images/projects/profile-share.webp');
     }
 
+    .project-container #project-5{
+        background-image: url('../images/projects/weather-app.png');
+    }
+
+    .project-container #project-6{
+        background-image: url('../images/projects/top-courses.png');
+    }
+
+    .project-container #project-7{
+        background-image: url('../images/projects/shoping-app.png');
+    }
+
     .project-card:nth-child(even){
         align-self: flex-end;
     }
