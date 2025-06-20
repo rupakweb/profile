@@ -583,6 +583,10 @@ header{
         background-image: url('../images/projects/shoping-app.png');
     }
 
+    .project-container #project-8{
+        background-image: url('../images/projects/todo-app.png');
+    }
+
     .project-card:nth-child(even){
         align-self: flex-end;
     }
